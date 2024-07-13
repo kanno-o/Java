@@ -1,4 +1,4 @@
-class test14_4 {
+class Test14_4 {
     static void methodA() {
         try {
             int[] a = new int[3]; // 配列 'a' の長さは3 (インデックスは0, 1, 2)
